@@ -55,7 +55,7 @@
 
 /* navbar */
 #navbar-color{
-    background-color: rgba(238,224,208);
+    background-color: rgb(213, 214, 219);
 }
 .navbar-nav{
     margin: auto;
@@ -172,7 +172,7 @@
 }
 
 .icons i{
-    color: rgba(238,224,208);
+    color: rgb(213, 214, 219);
     font-size: 30px;
     cursor: pointer;
 }
